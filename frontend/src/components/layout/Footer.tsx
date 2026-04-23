@@ -6,12 +6,8 @@ const Footer = () => {
 
   const socialLinks = [
     { name: 'GitHub', icon: '🐙', url: personalInfo.social.github },
-    {
-      name: 'LinkedIn',
-      icon: '<image src="/chrome/static/images/fallback/icon-linkedin.jpg" xlink:href="" alt="LinkedIn" width="24" height="24" class="svg-fallback"></image>',
-      url: personalInfo.social.linkedin,
-    },
-    // { name: 'Twitter', icon: '🐦', url: personalInfo.social.twitter },
+    { name: 'LinkedIn', icon: '💼', url: personalInfo.social.linkedin },
+    { name: 'Twitter', icon: '🐦', url: personalInfo.social.twitter },
   ];
 
   const quickLinks = [
