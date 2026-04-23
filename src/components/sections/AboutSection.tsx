@@ -63,7 +63,7 @@ const AboutSection = () => {
               <div className='aspect-square rounded-2xl overflow-hidden relative group'>
                 {/* ✅ YOUR IMAGE */}
                 <img
-                  src='images/porfolio.jpg'
+                  src='/images/porfolio.jpg'
                   alt='Abdalla Elnagar'
                   className='w-full h-full object-cover transition-transform duration-500 group-hover:scale-105'
                 />
