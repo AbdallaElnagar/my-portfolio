@@ -87,7 +87,7 @@ const AboutSection = () => {
             >
               <div className='text-center'>
                 <div className='text-3xl font-bold gradient-text'>ITI</div>
-                <div className='text-sm text-gray-400'>Graduate 2024</div>
+                <div className='text-sm text-gray-400'>Graduate 2026</div>
               </div>
             </motion.div>
           </motion.div>
