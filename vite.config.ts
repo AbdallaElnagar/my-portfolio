@@ -31,7 +31,6 @@ export default defineConfig({
       output: {
         manualChunks: {
           vendor: ['react', 'react-dom'],
-          apollo: ['@apollo/client', 'graphql'],
           ui: ['framer-motion', '@headlessui/react', '@heroicons/react'],
         },
       },
